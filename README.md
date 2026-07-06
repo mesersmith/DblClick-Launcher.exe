@@ -1,4 +1,4 @@
-DblClick Launcher v4.3
+DblClick Launcher v1.0
 Powered by Marius Filon
 
 
